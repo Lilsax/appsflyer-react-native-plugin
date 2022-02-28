@@ -13,6 +13,7 @@ Pod::Spec.new do |s|
   s.source_files     = 'ios/**/*.{h,m}'
   s.platform         = :ios, "9.0"
   s.tvos.deployment_target = '13.0'
+  
   s.static_framework = true
   s.dependency 'React'
 
