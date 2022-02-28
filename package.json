@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lilsax/appsflyer-react-native-plugin.git"
+    "url": "https://github.com/AppsFlyerSDK/react-native-appsflyer.git"
   },
   "author": "Appsflyer / Maxim Shoustin",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/Lilsax/react-native-appsflyer/blob/master/LICENSE"
+    "url": "https://github.com/AppsFlyerSDK/react-native-appsflyer/blob/master/LICENSE"
   },
   "homepage": "https://github.com/AppsFlyerSDK/react-native-appsflyer#readme",
   "keywords": [
@@ -27,7 +27,7 @@
     "appsflyer"
   ],
   "bugs": {
-    "url": "https://github.com/Lilsax/react-native-appsflyer/issues"
+    "url": "https://github.com/AppsFlyerSDK/react-native-appsflyer/issues"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.12.7",
