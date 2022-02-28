@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.dependency 'React'
 
-  # AppsFlyerFramework
+  # AppsFlyerFramework  s
   if defined?($RNAppsFlyerStrictMode) && ($RNAppsFlyerStrictMode == true)
     Pod::UI.puts "#{s.name}: Using AppsFlyerFramework/Strict mode"
     s.dependency 'AppsFlyerFramework/Strict', '6.5.2'
